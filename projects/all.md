@@ -4,4 +4,4 @@
 My pet physics theory
 
 
-[Home](/README.md)
+[Home](https://globbo-the-glob.github.io/tutoring/about.html)
