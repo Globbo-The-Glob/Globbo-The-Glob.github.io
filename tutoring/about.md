@@ -6,12 +6,12 @@ I am a tutor and blogger for A-level, GCSE, Pre-GCSE and personal interests.
 > [!TIP]
 > I do discounts for groups! Study groups are a different way to learn that help students work together and share ideas.
 
-## My specialities:
+## My Specialities:
 - Maths
 - Physics
 - Coding/Computing
 
-## I can also help with:
+## Other Offered Topics:
 - Design
 - IT
 - CAD
