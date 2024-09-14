@@ -3,4 +3,4 @@
 
 
 [Home](https://globbo-the-glob.github.io/tutoring/about.html) | 
-[Projects](/projects/all.md)
+[Projects](https://globbo-the-glob.github.io/projects/all.html)
