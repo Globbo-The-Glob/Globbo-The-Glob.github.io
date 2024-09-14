@@ -12,8 +12,8 @@
 ### - £25 per hour
 
 ## Group Discounts
-### 2 Tutees: £5ph off each
-### 3 or more: £10ph off each
+### - 2 Tutees: £5ph off each
+### - 3 or more: £10ph off each
 An example: 3 student group doing A-level, Total cost = £60 for the group (£20 per tutee). 
 
 > [!NOTE]
