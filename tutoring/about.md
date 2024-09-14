@@ -6,4 +6,4 @@ Some stuff
 - Objects
 $$\int^{\inf}_{-\inf}e^{-x^2}dx$$
 
-[Home](README.md)
+[Home](Globbo-The-Glob.github.io/README.md)
