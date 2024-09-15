@@ -24,4 +24,4 @@ An example: 3 student group doing A-level, Total cost = £60 for the group (£20
 > [!CAUTION]
 > These rates are subject to change. If they will be changed, all current tutees will be notified in good time.
 
-[Home](/README.md)
+[Home](https://globbo-the-glob.github.io/)
